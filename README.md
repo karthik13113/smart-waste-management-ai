@@ -29,6 +29,7 @@ This package contains working scripts for:
      val/
      test/
    ```
+   Due to size limitations, the full dataset is not uploaded.  
 2. Create a Python environment and install requirements:
    ```
    pip install -r requirements.txt
